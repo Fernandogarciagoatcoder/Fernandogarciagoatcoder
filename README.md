@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fernandogarciagoatcoder, a MSC in HEP Physics interested in fundamental physics, maths, and A.I. 
-- 👀 I’m interested in ... using GANs and ML techniques to improve knowledge and lifes 
+- 👀 I’m interested in ... using GANs and ML techniques to improve knowledge and life in general, solve tedious problems and improve the precision of others.
 - 🌱 I’m currently learning ... everything in life.
 - 💞️ I’m looking to collaborate on ... AI for social problems
 - 📫 How to reach me ... here for the moment
